@@ -1,2 +1,2 @@
 # mgr_project
-Projekt do pracy magisterskiej
+Program służy do obliczania rozkładu temperatury na ściance płaskiej
